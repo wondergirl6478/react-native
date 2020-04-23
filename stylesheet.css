@@ -1,0 +1,22 @@
+body{
+    background:rgb(39, 44, 54);
+}
+h1{
+    display: flex;
+    justify-content:center;
+    color: #04D7FE;
+    font-size: xx-large;
+    
+}
+.logo{
+    display: flex;
+    justify-content: space-evenly;
+}
+h2{
+    color: darkcyan;
+}
+.grid{
+
+    color: #04D7FE;
+    font-size: x-large;
+}
